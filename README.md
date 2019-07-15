@@ -2,6 +2,8 @@
 
 The docker-compose.yml file is from [overleaf/overleaf](https://github.com/overleaf/overleaf) and our version is upgraded to **texlive2018**.
 
+Thanks to [dennis1f/sharelatex-texlive2018](https://github.com/dennis1f/sharelatex-texlive2018) who built the sharelatex-texlive2018 docker image.
+
 ## Usage
 
 ```bash
